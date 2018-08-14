@@ -4,4 +4,4 @@ Git is free software distributed under the GPL.
 new line
 Git tracks changed!
 Creating a new branch is quick.
-Creating a new branch is quick 222.
+Creating a new branch is quick and feature
